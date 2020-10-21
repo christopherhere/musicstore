@@ -1,0 +1,29 @@
+#container {padding: 10px;}
+#header {position: fixed;padding: 10px;width: 96%;height: 10%; }
+#sitename {font-size: 55px;font-family: garamond;color: rgba(0,0,0,0.6) }
+body {background-image: url("art.jpg")  ;background-size: 62%;background-attachment: fixed; }
+#main {margin-top: 12%;padding: 10px;}
+fieldset{}
+#loginbox {margin-left: 30%;padding: 10px;display: table; ;}
+#footer {position: bottom;padding: 10px;}
+#logintable {}
+legend {font-size: 20px}
+#productmain {margin-top:10%;padding:10px;;}
+#quicktog {border-radius:5px;font-size:18px;position:fixed;width:15%;padding:10px;background-color:rgba(0,0,0,0.1)}
+#products {margin-left:20%;background-color:rgba(0,0,0,0.1);padding:10px;display:row;border-radius: 5px;}
+.productdetails {border:solid rgba(0,0,0,0.8);display: inline-block;height: 300px;width: 300px;background-color: white;padding: 10px;border-radius: 5px; }
+	.productimage {background-color:black;height: 300px;width: 300px;border-radius: 5px;}
+.productedit {}
+h2 {font-family: inherit;}
+table {padding:10px}
+tr {font-family: garamond;}
+a {text-decoration: none;color: black;}
+#productsdis {margin-left:20%;background-color:rgba(0,0,0,0.1);padding:10px;display:row;border-radius: 5px;display: inline-flex;}
+#userlog {float: right;position: relative; padding: 10px}
+#name {font-weight: lighter;}
+#usertable {padding: 30px;border: 1px solid;}
+fieldset {border:rgba(0,0,0,0.5)}
+#tnc {margin-left:20%;padding: 10px;background-color: rgba(0,0,0,0.1)}
+
+
+
